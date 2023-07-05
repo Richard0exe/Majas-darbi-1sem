@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1670328097 source:c:\users\richa\onedrive\desktop\uzdevums d\uzdevums_d\program.cpp
+	"program.h"
+	<iostream>
+	<cmath>
+
+1670327594 c:\users\richa\onedrive\desktop\uzdevums d\uzdevums_d\program.h
+
+1670326858 source:c:\users\richa\onedrive\desktop\uzdevums d\uzdevums_d\main.cpp
+	"program.h"
+	<iostream>
+	<cmath>
+
+1670326858 source:c:\users\richa\onedrive\desktop\lu\algoritmi un programmĒŠana\uzdevums d\uzdevums_d\main.cpp
+	"program.h"
+	<iostream>
+	<cmath>
+
+1670327594 c:\users\richa\onedrive\desktop\lu\algoritmi un programmĒŠana\uzdevums d\uzdevums_d\program.h
+
+1670328097 source:c:\users\richa\onedrive\desktop\lu\algoritmi un programmĒŠana\uzdevums d\uzdevums_d\program.cpp
+	"program.h"
+	<iostream>
+	<cmath>
+
